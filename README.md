@@ -1,2 +1,2 @@
 # clanpool-translation
-Translation for the ps vita game Tokyo Clanpool
+External hold for if/when I upload it here
