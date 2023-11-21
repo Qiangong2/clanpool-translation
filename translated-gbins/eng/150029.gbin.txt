@@ -1,7 +1,7 @@
 ―――――――――――――――――――――――――――――――――――――――― 10000
-キャラの属性とスキルの相性は、
-キャンプメニューの「スキル確認」の
-相性アイコンでいつでも確認することができます
+You can check your Character's compatibility
+at any time using the compatibility icon in
+the "Check Skills" section of the menu.
 ―――――――――――――――――――――――――――――――――――――――― 10001
 相性が良くないものがある場合は、
 装備を変更してスキルを付け替えると良いでしょう
