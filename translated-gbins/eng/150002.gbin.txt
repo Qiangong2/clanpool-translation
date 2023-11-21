@@ -1,0 +1,26 @@
+―――――――――――――――――――――――――――――――――――――――― 10000
+In the last battle, we used "Attack Skills".
+ 
+―――――――――――――――――――――――――――――――――――――――― 10001
+This time, use the special move "Renritsu Seiken" to defeat the
+boss.
+―――――――――――――――――――――――――――――――――――――――― 10002
+With "Renritsu Seiken", you can synchronize with the Cyber Spirit Gadgetia.
+This allows you to transform into the powerful "Seiken" mode.
+ 
+―――――――――――――――――――――――――――――――――――――――― 10003
+When the icon color changes, you have a chance to activate it!
+Select Gadgetia and activate Renritsu Seiken.
+  
+―――――――――――――――――――――――――――――――――――――――― 10004
+If "Renritsu Seiken" is activated successfully, your HP will be reset to MAX,
+your status will increase, and damage dealt to opponents will increase.
+ 
+―――――――――――――――――――――――――――――――――――――――― 10005
+Also, since your ＥＰhas increased greatly, let's register more "Attack Skills".
+This will allow you to do even more damage to enemies!!
+ 
+―――――――――――――――――――――――――――――――――――――――― 10006
+Seiken mode only lasts for 5 turns, so let's beat the boss before it runs out!
+ 
+―――――――――――――――――――――――――――――――――――――――― EOF
