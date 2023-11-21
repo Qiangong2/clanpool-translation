@@ -1,2 +1,2 @@
 # clanpool-translation
-External hold for if/when I upload it here
+A WiP translation for the Japanese PS Vita-exclusive game Tokyo Clanpool by Compile Heart
