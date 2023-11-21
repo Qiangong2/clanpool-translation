@@ -1,0 +1,36 @@
+―――――――――――――――――――――――――――――――――――――――― 10000
+In battle, a victory is won when all enemies are defeated. 
+If all four characters die, then it's game over for you. 
+ 
+―――――――――――――――――――――――――――――――――――――――― 10001
+The commands are:
+Attack Skill, DigiMagic, Cyber App, Precious, Renritsu Seiken,
+and Standby
+―――――――――――――――――――――――――――――――――――――――― 10002
+It would be confuding to learn everything all at once, so let's
+choose "Attack Skill" first!
+―――――――――――――――――――――――――――――――――――――――― 10003
+ＥＰ is required to use Attack Skills.
+Each skill consumes ＥＰ, and you can keep choosing skills until
+yourＥＰ reaches zero
+―――――――――――――――――――――――――――――――――――――――― 10004
+One skill is registered from the beginning, so let's set a
+second one now!
+―――――――――――――――――――――――――――――――――――――――― 10005
+If you don't have enough ＥＰ to use a skill, it will be grayed
+out.
+―――――――――――――――――――――――――――――――――――――――― 10006
+When you have finished choosing your skills, you can select
+"Set Strategy" or use the △ key to implement your skills.
+ 
+―――――――――――――――――――――――――――――――――――――――― 10007
+After selecting Attack Skills for all four characters, the battle
+will start.
+―――――――――――――――――――――――――――――――――――――――― 10008
+If you want to use the same moves on the following turn,
+press the R button.
+―――――――――――――――――――――――――――――――――――――――― 10009
+If you want to recover HP, use the Cyber App, or Hotaru's
+DigiMagic.
+ 
+―――――――――――――――――――――――――――――――――――――――― EOF
