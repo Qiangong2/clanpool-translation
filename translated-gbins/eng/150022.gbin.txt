@@ -1,7 +1,7 @@
 ―――――――――――――――――――――――――――――――――――――――― 10000
-コントロールルームでは、
-出撃できる階層とそのエリア名が表示されます
+The control room displays the levels and names
+of the areas where you can launch missions.
 ―――――――――――――――――――――――――――――――――――――――― 10001
-新たなエリアに到達すると、
-行き先が追加されます
+As you reach new areas, new
+destinations will be added
 ―――――――――――――――――――――――――――――――――――――――― EOF
