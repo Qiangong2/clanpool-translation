@@ -1,18 +1,18 @@
 ―――――――――――――――――――――――――――――――――――――――― 10000
-ダンジョン内には、いくつかの装置があります
+There are several devices in the dungeon.
 ―――――――――――――――――――――――――――――――――――――――― 10001
-赤い魔方陣「ダンジョンゲート」は、
-同じエリア内のダンジョンゲート間を自由に行き来できます
+The Red Circle is a "Dungeon Gate". Use it
+to travel back and forth between other "Dungeon Gates".
 ―――――――――――――――――――――――――――――――――――――――― 10002
-触れることでそのゲートが使用可能になるため、
-見つけたら必ず触れるようにしましょう
+Be sure to activate a "Dungeon Gate" when you find one,
+as you can't use it until it's activated.
 ―――――――――――――――――――――――――――――――――――――――― 10003
-回復の泉は、ＨＰやデジマジックの使用回数を
-回復することができます
+The "Spring of Recovery" can recover your HP
+and resets your digimagic to max.
 ―――――――――――――――――――――――――――――――――――――――― 10004
-電力回復装置は、電脳アプリの電力を
-回復することができます
+The "Power Recovery" device can restore a cyber app's
+power
 ―――――――――――――――――――――――――――――――――――――――― 10005
-これらの装置を有効に活用し、
-ダンジョン探索を効率よく進めて行きましょう
+Make the most of these devices, and you'll power
+through the dungeon in no time!
 ―――――――――――――――――――――――――――――――――――――――― EOF
