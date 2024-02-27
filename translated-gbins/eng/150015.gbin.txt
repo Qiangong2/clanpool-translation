@@ -1,9 +1,9 @@
 ―――――――――――――――――――――――――――――――――――――――― 10000
-「水中移動」は、水中を移動する電脳アプリです。
-井戸に入ると自動で起動し、下の階の水中エリアに
-移動することができます
+"Underwater Movement" is a cyber app that allows you
+to move underwater. It will automatically start when you
+enter a well, and will take you to the lower floor.
 ―――――――――――――――――――――――――――――――――――――――― 10001
-水中エリアでは、1マス歩くごとに電力を消費します。
-電力不足になると「窒息ダメージ」を受けるため、
-注意が必要です
+When underwater, power is used whenever you walk
+a single square. If you run out of power, you will start
+to suffocate and take damage.
 ―――――――――――――――――――――――――――――――――――――――― EOF
