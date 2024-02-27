@@ -10,9 +10,9 @@ as you can't use it until it's activated.
 The "Spring of Recovery" can recover your HP
 and resets your digimagic to max.
 ―――――――――――――――――――――――――――――――――――――――― 10004
-電力回復装置は、電脳アプリの電力を
-and resets your digimagic to max.
+The "Power Recovery" device can restore a cyber app's
+power
 ―――――――――――――――――――――――――――――――――――――――― 10005
-これらの装置を有効に活用し、
-ダンジョン探索を効率よく進めて行きましょう
+Make the most of these devices, and you'll power
+through the dungeon in no time!
 ―――――――――――――――――――――――――――――――――――――――― EOF
