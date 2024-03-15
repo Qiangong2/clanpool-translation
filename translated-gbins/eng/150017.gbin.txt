@@ -1,15 +1,15 @@
 ―――――――――――――――――――――――――――――――――――――――― 10000
-「メンバー」では、装備の変更やスキルの確認ができます
+You can change your equipment and check skills under "Members"
 ―――――――――――――――――――――――――――――――――――――――― 10001
-「装備変更」では、右手、左手、頭、体、足の
-装備を変更することができます
+"Equipment Change" allows you to change the equipment for your
+hands, head, body, and feet.
 ―――――――――――――――――――――――――――――――――――――――― 10002
-右手、左手の武器には「攻撃スキル」が付いているため
-何を装備するかがとても重要です
+The right and left-hand weapons have "Attack Skills",
+so it is extremely important to equip them!
 ―――――――――――――――――――――――――――――――――――――――― 10003
-攻撃スキルには「属性」があり、キャラの属性と
-相性が良いスキルは威力がアップし、
-相性が悪いスキルは威力がダウンします
+Attack Skills have "attributes". Skills that are compatible with a
+character's attributes will have their power increased, and skills
+that are not compatible will see their power decreased.
 ―――――――――――――――――――――――――――――――――――――――― 10004
 スキルの詳細に表示された相性アイコンで
 相性が良いか悪いかがわかりますので、
