@@ -1,22 +1,22 @@
 ―――――――――――――――――――――――――――――――――――――――― 10000
-ダンジョン内では、リアルタイムに国民からの
-支持率が変化します
+In the dungeon, your public approval rating updates
+in real time.
 ―――――――――――――――――――――――――――――――――――――――― 10001
-宝箱を見つける、戦闘に勝利するなどで上昇し、
-トラップに引っ掛かる、メンバーが戦闘不能になる
-などで低下します
+It increases when you open a chest, win a battle, etc.
+and it decreases when you get caught in a trap, a
+party member faints, etc.
 ―――――――――――――――――――――――――――――――――――――――― 10002
-また、戦闘などでの国民の評価によって、
-探索から帰還した際に得られる「寄付金」が
-増加します
+In addition, the public will give "donations" depending
+on your performance in battle. The "donations" will be
+given when you leave the dungeon.
 ―――――――――――――――――――――――――――――――――――――――― 10003
-支持率が７０％、８０％、９０％、１００％に達すると、
-『シジリツフィーバー』が発生します
+When the approval rating reaches, 70, 80, 90, or 100%,
+"Shijiritsu Fever" will occur.
 ―――――――――――――――――――――――――――――――――――――――― 10004
-フィーバーが発生すると、ダンジョン探索に有益な
-さまざまな特殊効果が発生します
+When fever occurs, various bonuses will be applied
+to your team in the dungeon.
 ―――――――――――――――――――――――――――――――――――――――― 10005
-ただし、万が一支持率が０になると「内閣総辞職」となり、
-ダンジョンから強制帰還させられてしまうため
-注意が必要です
+However, in the unfortunate event that your approval rating
+hits 0, your cabinet will resign en masse, and you will be
+forced to exit the dungeon, so be careful!
 ―――――――――――――――――――――――――――――――――――――――― EOF
