@@ -47,8 +47,8 @@ Apparently there's some sort of boss there.
 ―――――――――――――――――――――――――――――――――――――――― 10010
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20010
-I can see a high-amount of radiation. I'll mark it on the map.
- 
+I can see a high-amount of ether radiation. I'll mark it
+on the map.
 ―――――――――――――――――――――――――――――――――――――――― 10011
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20011
@@ -70,11 +70,11 @@ all over Japan!
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20015
 Don't make any mistakes or it will hurt the cabinet's
- 
+Approval rating. Make sure to give it your all!
 ―――――――――――――――――――――――――――――――――――――――― 10016
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20016
-Yeah, yeah, I get it!
+Yeah, yeah, we get it!
 ―――――――――――――――――――――――――――――――――――――――― 10017
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20017
@@ -88,7 +88,7 @@ Just do what you normally do, and you'll be fine!
 ―――――――――――――――――――――――――――――――――――――――― 10019
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20019
-Uh-huh...
+Ummm.... Yeah!
 ―――――――――――――――――――――――――――――――――――――――― 10020
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20020
