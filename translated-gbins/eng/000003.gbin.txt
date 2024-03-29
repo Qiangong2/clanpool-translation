@@ -5,7 +5,7 @@ I've arrived!
 ―――――――――――――――――――――――――――――――――――――――― 10001
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20001
-Where are the police?
+Where's the Neighborhood Watch?
 ―――――――――――――――――――――――――――――――――――――――― 10002
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20002
@@ -13,8 +13,8 @@ No sign of the demons?
 ―――――――――――――――――――――――――――――――――――――――― 10003
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20003
-I'm pretty sure that the last place we heard
-from the police was around here, right?
+I'm pretty sure that the last place we heard from the
+Neighborhood Watch was around here, right?
 ―――――――――――――――――――――――――――――――――――――――― 10004
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20004
@@ -56,7 +56,7 @@ Location confirmed. Thanks, Hasumi.
 ―――――――――――――――――――――――――――――――――――――――― 10012
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20012
-What the fuck! You're welcome!
+Eh! You're welcome...
 ―――――――――――――――――――――――――――――――――――――――― 10013
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20013
