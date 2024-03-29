@@ -22,76 +22,76 @@ Hotaru, are you okay?
 ―――――――――――――――――――――――――――――――――――――――― 10005
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20005
-う、うん。大丈夫。
-帰ってこられたんだな、って思ったら
-ちょっと、ホッとしちゃっただけ……
+Uh, huh. I'm okay.
+I'm just relieved that everyone's back.
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10006
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20006
-四人とも、よくがんばってくれた。
-君たちの活躍で今回も大きな被害を出さずに済んだ
+All four of you did a great job. Thanks to your efforts,
+we were able to avoid major damage this time around.
 ―――――――――――――――――――――――――――――――――――――――― 10007
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20007
-一国民として、私からも礼を言わせてほしい
-本当にありがとう
+As a citizen, I would like to extend my thanks as well.
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10008
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20008
-いえ……そんな。
-私たちは、当然の役割を果たしただけです
+No thanks needed.
+We were only doing our job.
 ―――――――――――――――――――――――――――――――――――――――― 10009
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20009
-あ、あの、すみません。
-あのあと、自警隊のひとたちは……
+Oh, um, sorry.
+What about the Neighborhood Watch people?
 ―――――――――――――――――――――――――――――――――――――――― 10010
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20010
-心配いらないよ、ホタルん。
-ついさっきニイジマさんから連絡があって、
-めぼしい残党たちの追撃は終了
+Don't worry, Hotaru.
+I just received a call from Nijima and they managed
+to catch all the enemies that escaped.
 ―――――――――――――――――――――――――――――――――――――――― 10011
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20011
-さらに、今回の作戦に参加した自警隊隊員は
-死傷者なし！
+Furthermore, no Neighborhood Watch members were
+killed or injured!
 ―――――――――――――――――――――――――――――――――――――――― 10012
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20012
-わぁ。よかったデスね、ホタルさん
+Wow. You're very lucky, Hotaru.
 ―――――――――――――――――――――――――――――――――――――――― 10013
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20013
-うん……！
+Y-Yeah!
 ―――――――――――――――――――――――――――――――――――――――― 10014
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20014
-残党の撤退も早かったようだ。
-君たちが速やかに大物を倒したことによって、
-戦意を喪失したんだろう
+The remaining enemies seem to have retreated
+quickly. They must have lost their will to fight after
+you defeated the bosses.
 ―――――――――――――――――――――――――――――――――――――――― 10015
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20015
-でも、ヨシトキさん。国会議事堂が……
+But, Yoshitoki. The Capitol Building...
 ―――――――――――――――――――――――――――――――――――――――― 10016
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20016
-その件については緊急で「閣議」を召集済みだ。
-帰ってきたばかりで疲れているところ、
-悪いが……
+I have already called an urgent "Cabinet Meeting"
+about it. Sorry, I just got back and I'm rather tired...
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10017
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20017
-いえっ、平気です！
-それより、一刻も早く対策を話し合わないと
+No, it's okay!
+We should discuss countermeasures ASAP though.
 ―――――――――――――――――――――――――――――――――――――――― 10018
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20018
-そう言ってもらえると助かる
+I appreciate your concern.
 ―――――――――――――――――――――――――――――――――――――――― 10019
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20019
-ではでは、みなさん。
-さっそく、閣議室へ移動をお願いします！
+Well then, ladies and gentlemen.
+Please move to the Cabinet Room immediately!
 ―――――――――――――――――――――――――――――――――――――――― EOF
