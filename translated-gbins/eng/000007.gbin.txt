@@ -149,288 +149,288 @@ just come crashing down on us though...
 ―――――――――――――――――――――――――――――――――――――――― 10031
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20031
-ちょっと！　そんなことより、
-魔物に人間と同等の知能と知性を持つ個体が
-いるなんて大発見じゃない！
+Hey, don't be so glum!
+It's a great discovery to find that there are demons with
+an intellect matching or even exceeding humans
 ―――――――――――――――――――――――――――――――――――――――― 10032
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20032
-あ～気になる！
-いったい、どんな生態なの！？
+I'm so curious!
+Did they evolve similarly to us?
 ―――――――――――――――――――――――――――――――――――――――― 10033
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20033
-あー……始まった……
+Ahh... There she goes...
 ―――――――――――――――――――――――――――――――――――――――― 10034
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20034
-ま、いわゆる職業病ってやつです
+Well, it's an occupational hazard with her...
 ―――――――――――――――――――――――――――――――――――――――― 10035
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20035
-このままじゃ気になって夜も眠れないわ。
-曲がり角手前にいる私のお肌がピンチに
-次ぐピンチ……大ピンチよ！
+It'll keep me up at night thinking of this.
+I feel like I should pinch myself to make sure...
+... Ouch! Nope, it's real.
 ―――――――――――――――――――――――――――――――――――――――― 10036
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20036
-そうだ、ナツメ！
-あんた、いますぐ塔に行って確かめてきて！
+Oh, Natsume! You should go to the tower and
+check it out!
 ―――――――――――――――――――――――――――――――――――――――― 10037
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20037
-む、無茶を言うなぁ～！
+Ehh!? That'd be far too reckless!
 ―――――――――――――――――――――――――――――――――――――――― 10038
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20038
-イスペリカは右大臣……
-えーと、とても偉いヒトなんでしょうか？
+Isuperika is the Minister of the Right...
+Well, I guess that means he's someone important?
 ―――――――――――――――――――――――――――――――――――――――― 10039
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20039
-女王の側近、って言ってたよね
+A close aid to the Queen, it sounds like.
 ―――――――――――――――――――――――――――――――――――――――― 10040
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20040
-女王に、右大臣……つまり「黒界」は、
-統治機構を備えた社会集団ってことになるわ
+The Queen, the Minister of the Right... it must mean
+that this "Black World" has a government of some kind.
 ―――――――――――――――――――――――――――――――――――――――― 10041
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20041
-すごく驚きマシタ。
-あんなふうにコンタクトを取ってきたこと、
-いままで一度もないデスよね
+It surprised me.
+I've never been contacted in that way before.
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10042
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20042
-ええ。まさか、敵がこれほどの知識と知性を
-兼ね備えているなんて……
+Yup. I had no idea our enemies were this advanced...
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10043
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20043
-彼らについて、他になにか気づいたことは？
+What else did you notice about them?
 ―――――――――――――――――――――――――――――――――――――――― 10044
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20044
-特には……本当に唐突でしたから
+It was extremely sudden too. No warning at all.
 ―――――――――――――――――――――――――――――――――――――――― 10045
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20045
-ん～……だよねえ。
-雑魚を倒すところまではいつも通りだったし
+Hmm. It was, wasn't it?
+It was business as usual up until then.
 ―――――――――――――――――――――――――――――――――――――――― 10046
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20046
-こ、このままだとホタルたち、
-あの塔に滅ぼされちゃうのかな……
+I-If this continues, I don't know how long I'll
+be able to make it...
 ―――――――――――――――――――――――――――――――――――――――― 10047
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20047
-そんなこと、絶対にさせないよ！
-ギインドールズが食い止めなきゃ！
+We won't let that happen!
+The Guindolls will stop them!
 ―――――――――――――――――――――――――――――――――――――――― 10048
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20048
-う、うん……
+Umm, Yeah...
 ―――――――――――――――――――――――――――――――――――――――― 10049
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20049
-えーっと、あのホロが消えたあと、
-魔物たちは一斉に引き上げちゃったのよね？
+Let's see, after that hologram disappeared, all
+the demons dispersed, right?
 ―――――――――――――――――――――――――――――――――――――――― 10050
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20050
-ええ。ボスを倒した後、攻撃は一切なかった
+Yes, they did. After we killed the boss, they left.
 ―――――――――――――――――――――――――――――――――――――――― 10051
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20051
-すぐにやらないってことは、
-まだ、手はずが整ってねーってことです
+I don't like it. It's like the gearing up for an
+attack.
 ―――――――――――――――――――――――――――――――――――――――― 10052
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20052
-あ、そっか。じゃあ、準備完了する前に
-止めればいいってことだよね！
+Oh, I see. You're saying we should stop them
+before they attack us!
 ―――――――――――――――――――――――――――――――――――――――― 10053
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20053
-ええ、そう。勝機はあるはずよ
+Yeah, that's got to be our best chance to win.
 ―――――――――――――――――――――――――――――――――――――――― 10054
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20054
-で、でも、準備って……？
+But, what about preparing?
 ―――――――――――――――――――――――――――――――――――――――― 10055
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20055
-塔が世界を滅ぼす……。
-ふむん。ビームでも出るのカシラ？
+The tower will destroy the world...
+Hmm. But how? Is there some sort of laser?
 ―――――――――――――――――――――――――――――――――――――――― 10056
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20056
-外観にそれらしき装備は見当たらないけど、
-調査してみないと、なんとも……
+I can't see anything on the outside, but without
+an investigation, I can't say for sure...
 ―――――――――――――――――――――――――――――――――――――――― 10057
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20057
-相手の真意を探るためにも、
-塔の調査は不可欠ね
+So we need to investigate the tower to find out what
+they're planning.
 ―――――――――――――――――――――――――――――――――――――――― 10058
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20058
-しかし、敵本拠地の調査となれば、
-いままで以上に危険が伴う
+However, it will be more dangerous than before. It's
+the enemy stronghold, after all.
 ―――――――――――――――――――――――――――――――――――――――― 10059
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20059
-黒界議事塔が世界に終焉をもたらす――
-これが本当なら大変なことになります。
-ジッとしてはいられません
+The Black World Parliament Tower will bring about
+an end to the world! If it's true, it's a big deal! We
+can't just sit by and let it happen!
 ―――――――――――――――――――――――――――――――――――――――― 10060
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20060
-うん。少しでも前に進まなきゃ！
+Yup. We have to face it head on!
 ―――――――――――――――――――――――――――――――――――――――― 10061
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20061
-塔の奥に行けば、また、
-イスペリカに会えるかもしれませんしネ
+If you infiltrate the tower, you may find
+Isuperika again.
 ―――――――――――――――――――――――――――――――――――――――― 10062
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20062
-あ、もしかしたら、
-話し合いができるかも……？
+Oh, maybe we can learn more about their
+motives?
 ―――――――――――――――――――――――――――――――――――――――― 10063
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20063
-あ、そっか。考えたこともなかったけど、
-言葉を喋るんだから相手と話をしたって
-いいんだ！
+Oh, I see. Since you're the diplomat, you can
+negotiate with them!
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10064
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20064
-ハイ！　仲良くなれたら素敵デス♪
+Yes! It would be great if we could get to know each other.
 ―――――――――――――――――――――――――――――――――――――――― 10065
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20065
-アホですか。これだけ徹底抗戦を続けてきて、
-いまさら話し合いに応じるわけねーです
+Are you an idiot? There's no way they'll want to
+talk to us after beating them up for years.
 ―――――――――――――――――――――――――――――――――――――――― 10066
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20066
-でも、会話によって意思疎通ができると
-判明したのは大きな収穫よ
+I think it's a great achievement in and of itself
+that we can communicate with them.
 ―――――――――――――――――――――――――――――――――――――――― 10067
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20067
-そうだよ、勝つためのヒントだって
-引き出せるかもしれない！
+That's right. It may even help us find ways to win in
+future battles!
 ―――――――――――――――――――――――――――――――――――――――― 10068
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20068
-……まあ、その言い分には一理あるです。
-キミらにそんな話術が可能かどーかは
-置いといて
+... Well, you do have a point.
+I don't know if you guys are capable of diplomacy
+though.
 ―――――――――――――――――――――――――――――――――――――――― 10069
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20069
-う……い、言い返せないっ……
+Hmph. It's not like you're any better...
 ―――――――――――――――――――――――――――――――――――――――― 10070
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20070
-防衛と調査を両立かぁ……てことは、
-いままで以上に自警隊と協力していかないと
+Combining defense and investigation... We'll need to
+work with the Neighborhood Watch even more on this.
 ―――――――――――――――――――――――――――――――――――――――― 10071
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20071
-あー……そっかぁ……そうだよねえ
+Ah... I see... That's unfortunate.
 ―――――――――――――――――――――――――――――――――――――――― 10072
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20072
-なにか不都合が？
+What's wrong?
 ―――――――――――――――――――――――――――――――――――――――― 10073
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20073
-そのぉ、自警隊はギインドールズのことを
-あんまりよく思ってないっていうか……
+The Neighborhood Watch doesn't exactly have
+the highest opinion of the Guindolls...
 ―――――――――――――――――――――――――――――――――――――――― 10074
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20074
-ニイジマ統合幕僚長に言われました。
-おまえたちを正式な内閣とは認めていない、と
+Nijima told us flat-out that he doesn't recognize our
+right to govern.
 ―――――――――――――――――――――――――――――――――――――――― 10075
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20075
-きつーく睨まれてしまいマシタ
+He wouldn't stop staring at me. It was creepy...
 ―――――――――――――――――――――――――――――――――――――――― 10076
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20076
-こ、怖かった、です……
+Yeah, it was scary...
 ―――――――――――――――――――――――――――――――――――――――― 10077
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20077
-まあ……気持ちはわかるけどね。
-自警隊は、自分たちが国防を担ってる、って
-意識が強いから
+Well... I know how you feel.
+The Neighborhood Watch have it in their head that
+they should be in charge of national defense.
 ―――――――――――――――――――――――――――――――――――――――― 10078
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20078
-自警隊って、確か、
-元陸海空自衛隊の生き残りだよね？
+The Watch is made up of former survivors of the
+Army, Navy, and Air Force, right?
 ―――――――――――――――――――――――――――――――――――――――― 10079
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20079
-逆さ都市群が出現したとき、
-総力戦でほとんど全滅しちゃったっていう……
+When the demons first appeared, they were nearly
+wiped out completely.
 ―――――――――――――――――――――――――――――――――――――――― 10080
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20080
-ええと、自警隊の総兵力はいま、
-百人ぐらいデスよね？　ということは……
+Let's see, the Neighborhood Watch is roughly about
+100 men, right? That would mean...
 ―――――――――――――――――――――――――――――――――――――――― 10081
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20081
-生存者は１％にも満たねーです
+Less than 1% of them survived.
 ―――――――――――――――――――――――――――――――――――――――― 10082
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20082
-ひどい……
+That's terrible...
 ―――――――――――――――――――――――――――――――――――――――― 10083
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20083
-あれは、本当に苦しい戦いだった
+It was an uphill battle from the start.
 ―――――――――――――――――――――――――――――――――――――――― 10084
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20084
-けど、顔を立ててやるにも限度があんのよ。
-実際問題、魔物は自警隊の手に余るんだし
+Regardless, there's a limit to their abilities.
+The fact is, they can't handle the demons alone.
 ―――――――――――――――――――――――――――――――――――――――― 10085
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20085
-だからこそ、魔物を倒すべく、
-出撃チーム・ギインドールズが組織された
+That's why us, the Guindolls, were organized!
+We're the only ones that can defeat the demons!
 ―――――――――――――――――――――――――――――――――――――――― 10086
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20086
-そのとおり。あんたたち四人は、
-魔物を倒したとき発生するエーテルを吸収し
-自らの力にできる特殊な存在
+That's right. You four are the only ones capable
+of both absorbing the ether generated by demons when
+they are defeated, and converting it into power.
 ―――――――――――――――――――――――――――――――――――――――― 10087
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20087
-ギインドールズと自警隊のパンピー共の
-戦闘能力じゃ、月とすっぽんレベルで
-比べものにならねーです
+Comparing the Guindolls to the Neighborhood Watch
+is like comparing a turtle to the moon. It's stupid to
+even try.
 ―――――――――――――――――――――――――――――――――――――――― 10088
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20088
-ヨミやイロハみたいな、
-後方支援能力型の閣僚も集まったしね！
+Don't forget yourselves! Both Iroha and Yomi
+support us from back here.
 ―――――――――――――――――――――――――――――――――――――――― 10089
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20089
-ええ、そうね。
-お陰で電脳スマホやデジスキンの開発が進み、
-魔物を駆逐できる体勢が整った
+Definitely. Without the creation of tele-phone
+and DigiSkin systems, we wouldn't be able to
+defeat the demons.
 ―――――――――――――――――――――――――――――――――――――――― 10090
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20090
