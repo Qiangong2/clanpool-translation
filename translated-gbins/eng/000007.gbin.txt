@@ -434,67 +434,67 @@ defeat the demons.
 ―――――――――――――――――――――――――――――――――――――――― 10090
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20090
-……あ。遅れてやってきた挙げ句って、
-あのイヤミ、そういう意味もあったのかなぁ
+... Ah. I wonder if there was a meaning behind
+that unpleasant comment that came in late.
 ―――――――――――――――――――――――――――――――――――――――― 10091
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20091
-複雑な気持ちは理解するわ。
-でも、あの態度はあんまりよ
+I understand your feelings, but you can't
+please everyone.
 ―――――――――――――――――――――――――――――――――――――――― 10092
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20092
-負け犬の遠吠えに付き合ってやるこたねーです
+I don't have to deal with the howling of a loser.
 ―――――――――――――――――――――――――――――――――――――――― 10093
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20093
-ヨミ、さすがにそれ、きっついって……
+Thanks for that, Yomi...
 ―――――――――――――――――――――――――――――――――――――――― 10094
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20094
-文句があんなら結果出せってヤツです
-一般人のヒガミなんざ放っとくに限るです
+They're the type of person who you can't
+please no matter what. Just let it go.
 ―――――――――――――――――――――――――――――――――――――――― 10095
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20095
-……わかった。
-自警隊にはいままで以上に協力するよう
-私から話をしておく
+... On that note, I'll talk to the Neighborhood
+Watch. Since we need to work with them more,
+Maybe they'll be more likely to listen to me.
 ―――――――――――――――――――――――――――――――――――――――― 10096
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20096
-勝利のために塔の調査は避けて通れない。
-これは内閣の、ひいては国民の総意だ。
-従ってもらう必要がある
+We can't win unless we investigate the tower.
+This is the consensus of the Cabinet, and therefore
+the people. They must agree.
 ―――――――――――――――――――――――――――――――――――――――― 10097
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20097
-はい。ありがとうございます
+Yes. Thank you.
 ―――――――――――――――――――――――――――――――――――――――― 10098
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20098
-今日の情報共有はこれくらいでいいだろう。
-皆、ゆっくりと身体を休めなさい
+That's enough information sharing for today.
+Everyone, make sure to get some rest.
 ―――――――――――――――――――――――――――――――――――――――― 10099
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20099
-――ハスミ君。
-調査の準備にはどれくらいかかりそうかね？
+Oh, Hasumi-kun?
+How long will it take to prepare for the tower?
 ―――――――――――――――――――――――――――――――――――――――― 10100
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20100
-デジスキンの整備と出撃準備なら、
-今晩中に完了します！
+If you want to use the DigiSkins as-is, then
+we'll be ready this evening!
 ―――――――――――――――――――――――――――――――――――――――― 10101
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20101
-では、明日の予定で進めてくれたまえ
+Well then, please proceed as scheduled.
 ―――――――――――――――――――――――――――――――――――――――― 10102
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20102
-了解です！
+Got it!
 ―――――――――――――――――――――――――――――――――――――――― 10103
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20103
-それでは、本日の閣議はこれで解散しまーす！
+Today's Cabinet meeting is hereby adjourned!
 ―――――――――――――――――――――――――――――――――――――――― EOF
