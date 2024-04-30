@@ -93,43 +93,43 @@ I'll be sure to purchase them at a good price ♪
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20020
 Yeah, we will.
-商売するんだから……
+There'd be no point to you being here otherwise...
 ―――――――――――――――――――――――――――――――――――――――― 10021
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20021
-せめて回復系のプレシャスぐらい、
-無料で支給してくれてもいいのにー
+It would be nice if you could just give us the recovery
+items for free, though.
 ―――――――――――――――――――――――――――――――――――――――― 10022
 Akira
 ―――――――――――――――――――――――――――――――――――――――― 20022
-あ、の、ね！　総理も知ってのとーり、
-装備や技術開発で、内閣の予算は常にカツカツ！
-逆さに振ったって出ない状況なのっ！
+Nuh, uh, uh! As you already know, the Cabinet's
+budget is paper thin as it is! If I gave away items
+for free, everything else would suffer!
 ―――――――――――――――――――――――――――――――――――――――― 10023
 Akira
 ―――――――――――――――――――――――――――――――――――――――― 20023
-せめて材料ぐらい現地調達して
-経済回さないとやってらんないんだってばっ！
+If you can't obtain any rare materials, the
+economy will crash regardless!
 ―――――――――――――――――――――――――――――――――――――――― 10024
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20024
-あー……ハイハイ……
+Ah... ha ha...
 ―――――――――――――――――――――――――――――――――――――――― 10025
 Akira
 ―――――――――――――――――――――――――――――――――――――――― 20025
-――あ。でも、
-明日からは多少楽になるかもねぇ？
+... Oh.
+Maybe it will be somewhat easier tomorrow?
 ―――――――――――――――――――――――――――――――――――――――― 10026
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20026
-明日？？
+Tomorrow??
 ―――――――――――――――――――――――――――――――――――――――― 10027
 Akira
 ―――――――――――――――――――――――――――――――――――――――― 20027
-おおっと。これ以上は明日になってからの
-お楽しみ♪　にひひっ
+Oops. I'll tell you more about it tomorrow ♪
+Hehehe
 ―――――――――――――――――――――――――――――――――――――――― 10028
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20028
-（？　明日ってなんかあったっけ……？）
+(? Did we have something scheduled tomorrow?)
 ―――――――――――――――――――――――――――――――――――――――― EOF
