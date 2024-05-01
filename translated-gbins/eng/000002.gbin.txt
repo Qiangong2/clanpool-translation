@@ -35,7 +35,7 @@ Okay, we're in!
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20007
 I, Prime Minister Kannuki Natsume, hereby
-request the Guindolls team start a defense of
+request the Giindolls team start a defense of
 the city!
 ―――――――――――――――――――――――――――――――――――――――― 10008
 Natsume
@@ -51,11 +51,11 @@ Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20010
 Operator to all personnel in the "KA-YABARA Q-BOX"
 building. The Prime Minister has asked for all of the
-Guindolls to convene immediately.
+Giindolls to convene immediately.
 ―――――――――――――――――――――――――――――――――――――――― 10011
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20011
-By imperial decree, the Guindolls' skills are requested!
+By imperial decree, the Giindolls' skills are requested!
 Chiyo Saionji, Hotaru Urushibara, and Mikuri Kirigakure;
 Please report to the Control Room immediately!
 ―――――――――――――――――――――――――――――――――――――――― 10012
@@ -211,7 +211,7 @@ Natsume-kun
 ―――――――――――――――――――――――――――――――――――――――― 10046
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20046
-The Guindolls are the only ones capable of
+The Giindolls are the only ones capable of
 handling this situation. I'm counting on all four
 of you.
 ―――――――――――――――――――――――――――――――――――――――― 10047
@@ -242,7 +242,7 @@ Got it!
 ―――――――――――――――――――――――――――――――――――――――― 10053
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20053
-Operator to Team Guindolls.
+Operator to Team Giindolls.
 The Digiskin system is ready to be initialized.
 Please verify all checks have passed.
 ―――――――――――――――――――――――――――――――――――――――― 10054
@@ -263,11 +263,11 @@ Let's Go!
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20057
 The DigiSkin System has been successfully initialized,
-Time to head out, Team Guindolls.
+Time to head out, Team Giindolls.
 Go out and kick some ass.
 ―――――――――――――――――――――――――――――――――――――――― 10058
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20058
-Copy! Team Guindolls...
+Copy! Team Giindolls...
 Let's Go!
 ―――――――――――――――――――――――――――――――――――――――― EOF

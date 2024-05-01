@@ -1,7 +1,7 @@
 ―――――――――――――――――――――――――――――――――――――――― 10000
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20000
-From Team Guindolls to the Control Room:
+Team Giindolls to the Control Room:
 Target has been destroyed.
 ―――――――――――――――――――――――――――――――――――――――― 10001
 Chiyo
@@ -13,7 +13,7 @@ Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20002
 This is the Control Room. Copy that.
 We're requesting the Neighborhood Watch chase
-down the remnants. Team Guindolls, return to base.
+down the remnants. Team Giindolls, return to base.
 ―――――――――――――――――――――――――――――――――――――――― 10003
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20003
@@ -283,7 +283,7 @@ They're gone...
 ―――――――――――――――――――――――――――――――――――――――― 10063
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20063
-Guindolls, check in if you can here me!
+Giindolls, check in if you can here me!
 ―――――――――――――――――――――――――――――――――――――――― 10064
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20064
