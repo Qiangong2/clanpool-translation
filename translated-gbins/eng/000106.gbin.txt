@@ -62,245 +62,245 @@ What the hell is that demon!
 ―――――――――――――――――――――――――――――――――――――――― 10014
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20014
-ちょ、そ、そんなに揺さぶらないで……！
+Wait, don't exaggerate!
 ―――――――――――――――――――――――――――――――――――――――― 10015
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20015
-ふふ、大興奮デスネ
+You're so excited!
 ―――――――――――――――――――――――――――――――――――――――― 10016
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20016
-あはは……。イロハ姐さん、分析は？
+Haha.... So, Iroha, what's your analysis?
 ―――――――――――――――――――――――――――――――――――――――― 10017
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20017
-終わったから来たのよ。
-いますぐデータを転送するわ
+The analysis is done.
+Transferring the data now.
 ―――――――――――――――――――――――――――――――――――――――― 10018
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20018
-サンキューでーす！
+Thank you!
 ―――――――――――――――――――――――――――――――――――――――― 10019
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20019
-細かい資料はあとでゆっくり見るとして、
-イロハ君。ざっくり説明してくれるかな
+I'll look in-depth at the analysis later.
+In the mean time, can you give us a quick rundown?
 ―――――――――――――――――――――――――――――――――――――――― 10020
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20020
-はい。魔物はナツメたちがあのフロアに
-入った直後、一直線に向かって来ました
+Alright. The demon came straight at Hotaru as soon
+as you entered the floor.
 ―――――――――――――――――――――――――――――――――――――――― 10021
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20021
-この動きは、他の魔物と明らかに違います
+This is clearly different from the other demons.
 ―――――――――――――――――――――――――――――――――――――――― 10022
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20022
-違う？　えっと、どの辺が？
+Huh? Which part?
 ―――――――――――――――――――――――――――――――――――――――― 10023
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20023
-どの魔物も、ホタルたちを見るとすぐ
-襲いかかってくるよね……？
+As soon as any of these demons see me,
+they attack us, right?
 ―――――――――――――――――――――――――――――――――――――――― 10024
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20024
-そう。まさしくそこが他の魔物と違うところよ。
-あいつは、ナツメたちを視認する前に
-行動を開始しているの
+Correct. That's exactly what sets it apart from the other demons.
+It starts attacking before even seeing Natsume.
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10025
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20025
-あ、確かに！　あのとき、目視できない場所から
-一直線にみんなのほうへ向かって来た！
+Oh, sure! It started attacking us before it could even see us!
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10026
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20026
-え、目で見てないってことは、
-どうやってわたしたちを認識したんだろ……？
+Wait, they attacked us before seeing us?
+How did they know where to attack then?
 ―――――――――――――――――――――――――――――――――――――――― 10027
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20027
-これは憶測だけど、彼らには縄張りを検知する
-センサー的な感覚があるんじゃないかと思うの
+This is only speculation, but I believe these demons may
+have a sensor or something that alerts them to our presence.
 ―――――――――――――――――――――――――――――――――――――――― 10028
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20028
-特定のフロアに踏み入ると、
-遠くからでも相手を認識できるような……
+When you step onto a specific floor, some demons will
+immediately recognize you from a distance.
 ―――――――――――――――――――――――――――――――――――――――― 10029
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20029
-これは未知の能力よ！
-こんなもん見せられたら冷静でいられないわ！
+This is a previously unknown ability!
+I don't know how you guys are able to keep your cool about this!
 ―――――――――――――――――――――――――――――――――――――――― 10030
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20030
-ホタルたちが見つけるより前に襲いかかって
-くるなんて……こ、怖い……
+I can't believe they attacked me before even seeing me...
+It's scary...
 ―――――――――――――――――――――――――――――――――――――――― 10031
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20031
-イロハの憶測が正しいとすると、かなり厄介ね
+If Iroha's right, this is a rather nasty surprise.
 ―――――――――――――――――――――――――――――――――――――――― 10032
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20032
-うーむ。今日倒したヤツの他にも、
-似たような魔物が生息してるかもしれないし……
+Hmm. Besides the one we beat today, there may be more
+of this type of demon.
 ―――――――――――――――――――――――――――――――――――――――― 10033
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20033
-可能性は大いにあるわ！
+Exactly! A lot more!
 ―――――――――――――――――――――――――――――――――――――――― 10034
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20034
-もー。イロハってば、喜ばないでよぉ。
-戦うこっちは大変なんだからー
+Ughhhhh. Don't be so excited about this, Iroha.
+It's difficult enough to fight them as it is.
 ―――――――――――――――――――――――――――――――――――――――― 10035
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20035
-ああ。ごめん、ごめん。つい
+Oh. Sorry... My bad...
 ―――――――――――――――――――――――――――――――――――――――― 10036
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20036
-他に、なにか魔物の特徴は？
+Anything else we should know about the demon?
 ―――――――――――――――――――――――――――――――――――――――― 10037
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20037
-エーテル反応から推察するに、
-あの魔物は、形状が固定される直前まで、
-霊的存在だったと考えられます
+From the ether reaction, I gather that the demon was
+originally some sort of spiritual being.
+It didn't have a physical form before attacking you.
 ―――――――――――――――――――――――――――――――――――――――― 10038
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20038
-霊的……実体がないということ？
+So you mean... It can just reform?
 ―――――――――――――――――――――――――――――――――――――――― 10039
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20039
-ふむん。そういえば、
-戦う直前までモヤモヤしてましたネ
+Hmm. Come to think of it, something did feel off
+about this one throughout the fight.
 ―――――――――――――――――――――――――――――――――――――――― 10040
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20040
-形状まで自在だなんて……。
-他には？
+That would explain why it kept changing....
+Anything else?
 ―――――――――――――――――――――――――――――――――――――――― 10041
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20041
-今回のデータから判るのはこのくらいよ。
-とにかく、他に類を見ない特殊個体であることは
-間違いないわね
+Nothing at the moment. That's all I could tell from the data.
+Anyway, it's definitely a unique and unusual specimen.
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10042
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20042
-これ以上のことを知りたければ、
-私たちが実際に戦ってデータを蓄積するしかない……
+So if we want to learn more about these new demons, we'll
+need to fight more of them and gather more data.
 ―――――――――――――――――――――――――――――――――――――――― 10043
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20043
-そういうこと。通常の魔物と区別するために、
-「ファンタズマ」と呼ぶことにするわ
+That would be ideal. It will be a lot easier to distinguish it if we
+had more data. I've decided to call these demons "Phantasma"
 ―――――――――――――――――――――――――――――――――――――――― 10044
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20044
-ファンタズマかあ。なんか、かっこいいね
+Phantasma. Huh. That's kinda cool.
 ―――――――――――――――――――――――――――――――――――――――― 10045
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20045
-暢気なこと言ってる場合じゃねーです。
-今回レベルでも、連戦になったら危ねーです
+This is not the time to be talking casually. If you face
+multiple of these demons back-to-back, it could be deadly.
 ―――――――――――――――――――――――――――――――――――――――― 10046
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20046
-しかも、もっと固有能力の高いやつが
-出てくる可能性もある……
+Furthermore, there's a possibility that a demon with even
+more powerful abilities will appear...
 ―――――――――――――――――――――――――――――――――――――――― 10047
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20047
-たくさん倒せば、その分、
-たくさんエーテルを吸収できるだろうけど……
+The more you defeat, the more Ether you can absorb.
+However....
 ―――――――――――――――――――――――――――――――――――――――― 10048
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20048
-む、無理だよ！
-一体だってあんなに大変だったのに……！
+No! I can't do it!
+It's already been hard enough!
 ―――――――――――――――――――――――――――――――――――――――― 10049
 Hasumi
 ―――――――――――――――――――――――――――――――――――――――― 20049
-だよね。さすがに体力が保たない
+I'm not sure if we'll be able to keep our strength up.
 ―――――――――――――――――――――――――――――――――――――――― 10050
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20050
-ぶっちゃけ、見かけたらなるべく
-逃げたほーがいいです
+To be honest, it might be better to just run away if you see
+one.
 ―――――――――――――――――――――――――――――――――――――――― 10051
 Iroha
 ―――――――――――――――――――――――――――――――――――――――― 20051
-私としてはなるべく接敵してデータを取って
-欲しいけど、安全には変えられないわ。
-無理しないほうがいい
+Personally, I'd prefer it if you pushed and gathered as much
+data as possible. I understand though if it'll be too difficult.
+It's better not to push it.
 ―――――――――――――――――――――――――――――――――――――――― 10052
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20052
-敵の拠点だ。さすがに一筋縄ではいかない。
-焦らず攻略していくしかなさそうだ
+It's the enemy's base. As to be expected, it's not easy.
+We'll just have to take our time and plan our attack.
 ―――――――――――――――――――――――――――――――――――――――― 10053
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20053
-（やっぱり、いままでの戦いと全然違う）
+(I knew it, it's completely different from before)
 ―――――――――――――――――――――――――――――――――――――――― 10054
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20054
-（だけど、負けるわけにいかない。
-　なんとかして先に進まなきゃ）
+(But we can't lose. We must move on somehow.
+　For our sakes and others)
 ―――――――――――――――――――――――――――――――――――――――― 10055
 Mona
 ―――――――――――――――――――――――――――――――――――――――― 20055
-お話中、失礼します
+Excuse me.
 ―――――――――――――――――――――――――――――――――――――――― 10056
 Yoshitoki
 ―――――――――――――――――――――――――――――――――――――――― 20056
-モナ。なにかあったのかね？
+Mona. What is it?
 ―――――――――――――――――――――――――――――――――――――――― 10057
 Mona
 ―――――――――――――――――――――――――――――――――――――――― 20057
-はい。新たなアプリの開発が終わりましたので、
-ご報告に上がりました
+I've finished developing a new application.
+I'll send it to you now.
 ―――――――――――――――――――――――――――――――――――――――― 10058
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20058
-え、新しいアプリ？
+Eh? A new app?
 ―――――――――――――――――――――――――――――――――――――――― 10059
 Mona
 ―――――――――――――――――――――――――――――――――――――――― 20059
-ギインドールズのスマホにインストールできる。
-役に立つと思うわ
+You can install it on your Giindolls phone.
+I'm sure it will be useful.
 ―――――――――――――――――――――――――――――――――――――――― 10060
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20060
-ありがとう、モナ
+Thanks, Mona.
 ―――――――――――――――――――――――――――――――――――――――― 10061
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20061
-グッドニュース！
-戦局を打開できるかもしれませんネ
+Good News!
+Maybe we can finally end the war!
 ―――――――――――――――――――――――――――――――――――――――― 10062
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20062
-だといいな……
+I hope so...
 ―――――――――――――――――――――――――――――――――――――――― 10063
 Yomi
 ―――――――――――――――――――――――――――――――――――――――― 20063
-ま、千里の道も一歩から行くしかねーです
+Well, all it takes is taking the first step!
 ―――――――――――――――――――――――――――――――――――――――― 10064
 Mona
 ―――――――――――――――――――――――――――――――――――――――― 20064
-取り回しは主任のコテツに任せてあるから
-アプリ開発センターに寄ってみて
+Kotetsu will take it from here, so please stop by the app
+development center when you have time.
 ―――――――――――――――――――――――――――――――――――――――― 10065
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20065
-よーし！　準備万端にして黒界議事塔に
-チャレンジしてみよ！
+All right! Let's get ready and head to the Black World Tower.
+It's time for the next challenge!
 ―――――――――――――――――――――――――――――――――――――――― EOF
