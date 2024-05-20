@@ -30,125 +30,125 @@ Director Mona let me know you'd probably ask that.
 ―――――――――――――――――――――――――――――――――――――――― 10007
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20007
-そういえばモナって、
-ガジェッティア技術局だけじゃなくて
-アプリ開発センターの所長でもあるんだよねぇ
+About Mona, not only is she the head of the Gadgeteer
+Technical Bureau, she's also the director of the App
+Development Center!
 ―――――――――――――――――――――――――――――――――――――――― 10008
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20008
-いままでなんだと思っていたの
+I was wondering what was going on up until now.
 ―――――――――――――――――――――――――――――――――――――――― 10009
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20009
-えっと、アプリ作ってる頭いいひと……？
+Umm, who's the smartest person to make apps?
 ―――――――――――――――――――――――――――――――――――――――― 10010
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20010
-はっはっは！　違いねえ！
+Hahaha! Who do you think!
 ―――――――――――――――――――――――――――――――――――――――― 10011
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20011
-お前さんたちも知ってのとおり、
-電脳アプリはデジスキンと並び、
-対魔物戦装備の中核を成す画期的なツールだ
+As you guys know, the Dennou App is, along with the DigiSkin,
+a revolutionary tool to help the user engage in anti-demon
+combat.
 ―――――――――――――――――――――――――――――――――――――――― 10012
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20012
-あらかじめスマホにインストールしておき、
-使用時に起動させる
+Install it on your smartphone in advance, then launch it
+when you're ready to use it.
 ―――――――――――――――――――――――――――――――――――――――― 10013
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20013
-というわけで、センターの技術の粋を集めた
-最新アプリを支給しよう。
-受け取ってくれ
+Therefore, we will provide you with the latest app that brings
+together the best of the App Development Center's technology.
+Please install the app now.
 ―――――――――――――――――――――――――――――――――――――――― 10014
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20014
-コイツは、塔内の壁を掘り進める優れものだ
+This app will help you when you explore through the Tower.
 ―――――――――――――――――――――――――――――――――――――――― 10015
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20015
 すごいわ。これ、
-黒界議事塔の探索にもってこいじゃない？
+Isn't this perfect for exploring the Black World Tower?
 ―――――――――――――――――――――――――――――――――――――――― 10016
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20016
-うん。これを使えば、
-危ないところを避けて進めそう
+Yeah. If you use this, you can identify and avoid dangerous
+places in the Tower.
 ―――――――――――――――――――――――――――――――――――――――― 10017
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20017
-うまく使えば、効率よく戦えそうデスネ
+If we use this, we can fight more effectively too!
 ―――――――――――――――――――――――――――――――――――――――― 10018
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20018
-無理しないで、先へ進めるようになるかも！
+You might even be able to move forward without pushing yourself!
 ―――――――――――――――――――――――――――――――――――――――― 10019
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20019
-こいつは所長が考案して、
-オレが制作の陣頭指揮を執ったんだ。
-どうだ。すごかろう？
+This was the Director's idea and I spearheaded production.
+How do you like it? Isn't it great?
+ 
 ―――――――――――――――――――――――――――――――――――――――― 10020
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20020
-うん。ほんと、すごい！　ナイスタイミング！
+Yeah, it's really amazing! Great timing too!
 ―――――――――――――――――――――――――――――――――――――――― 10021
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20021
-今後もセンターでは、
-戦闘に役立つアプリをどんどん開発していく。
-たまに顔を出してみてくれ
+In the future, the Center will continue to develop many more
+useful applications for combat.
+Please do show up every once in a while.
 ―――――――――――――――――――――――――――――――――――――――― 10022
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20022
-ありがとうございます。心強いです
+Thank you very much. It's very reassuring.
 ―――――――――――――――――――――――――――――――――――――――― 10023
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20023
-けどなあ……。ちいとお前さんたちに
-謝らにゃならんことがあってな……
+But hey.... I have a few things I need to apologize to you guys
+for....
 ―――――――――――――――――――――――――――――――――――――――― 10024
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20024
-？　機能になにか問題でも？
+Huh? Why's that? Is there a problem with the app?
 ―――――――――――――――――――――――――――――――――――――――― 10025
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20025
-いやいや、電脳アプリの完成度は完璧だ。
-信用してくれ
+No no no. The app is fine.
+Trust me.
 ―――――――――――――――――――――――――――――――――――――――― 10026
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20026
-その……言いにくいんだが、
-今後のアプリは無償で支給できそうにねえんだ。
-相応の代金をもらうことになる
+I hate to tell you this...
+But I'm not going to be able to provide you with new apps
+for free anymore. You'll have to pay for each one.
 ―――――――――――――――――――――――――――――――――――――――― 10027
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20027
-それって、もしかして……
+Could that be...
 ―――――――――――――――――――――――――――――――――――――――― 10028
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20028
-財務大臣殿からのきつーいお達しでな
+This was a direct order from the Minister of Finance.
 ―――――――――――――――――――――――――――――――――――――――― 10029
 Natsume
 ―――――――――――――――――――――――――――――――――――――――― 20029
-や、やっぱりアキラかぁ……
+Argh. Of course it's Akira....
 ―――――――――――――――――――――――――――――――――――――――― 10030
 Hotaru
 ―――――――――――――――――――――――――――――――――――――――― 20030
-で、でも、しょうがないよ。
-お金のやりくり、すごく大変みたいだし……
+That doesn't bode well for us. It's really hard to make money
+after all.
 ―――――――――――――――――――――――――――――――――――――――― 10031
 Chiyo
 ―――――――――――――――――――――――――――――――――――――――― 20031
-財政に余裕がないのは確かだものね
+It's true that we don't have the money to spare.
 ―――――――――――――――――――――――――――――――――――――――― 10032
 Kotetsu
 ―――――――――――――――――――――――――――――――――――――――― 20032
-ま、開発もタダじゃねえからなぁ
+Well, developing apps isn't free.
 ―――――――――――――――――――――――――――――――――――――――― 10033
 Mikuri
 ―――――――――――――――――――――――――――――――――――――――― 20033
